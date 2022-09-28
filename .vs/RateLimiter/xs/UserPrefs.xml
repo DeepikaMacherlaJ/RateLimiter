@@ -1,5 +1,42 @@
 ﻿<Properties StartupConfiguration="{752B743B-E6CC-414D-89B3-EAD9DE7EFB76}|Default">
   <MonoDevelop.Ide.ItemProperties.RateLimiter.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.RateLimiter PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
+    <Files>
+      <File FileName="RateLimiter/Services/ByteConversions.cs" Line="31" Column="7" />
+      <File FileName=".vs/RateLimiter/xs/project-cache/RateLimiter.Tests-Debug.json" Line="1" Column="68" />
+      <File FileName="README.md" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RateLimiter" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="RateLimiter" expanded="True">
+              <Node name="Middleware" selected="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="RateLimiter.Tests" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="RateLimiter" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

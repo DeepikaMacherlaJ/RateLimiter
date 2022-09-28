@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{752B743B-E6CC-414D-89B3-EAD9DE7EFB76}|Default">
+  <MonoDevelop.Ide.ItemProperties.RateLimiter.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.RateLimiter PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
